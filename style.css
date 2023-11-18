@@ -59,7 +59,7 @@ justify-content:center;
 .socials{
 	flex-direction:row;
 	gap:1rem;
-	padding-top:20rem;
+
 }
 
 .fa {
